@@ -1,1 +1,1 @@
-# find_file_by_char
+Searches file and finds the words start with given character.
